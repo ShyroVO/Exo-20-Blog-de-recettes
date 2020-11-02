@@ -1,18 +1,25 @@
 
     body {
         text-align: center;
+        color: #851d41;
+        background-color: #FFF9F9;
     }
 
 
     h1 {
-        text-align: center;
-        color: cadetblue;
+        color: #851d41;
+    }
+
+    h2 {
+        color: #db3056;
+    }
+
+    h3{
+        color: #ff6464;
     }
 
     .menu {
-
-        text-align: center;
-        border: solid cadetblue;
+        border: solid #db3056;
         border-radius: 20px;
         margin-top: 5px;
         padding-top: 9px;
@@ -32,5 +39,13 @@
 
     .blockDeux {
         padding-left: 40%;
+    }
+
+    .blockUn span {
+        float: right;
+    }
+
+    .blockDeux span {
+        float: left;
     }
 
