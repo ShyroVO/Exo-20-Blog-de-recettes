@@ -1,10 +1,12 @@
 
+    body {
+        text-align: center;
+    }
+
+
     h1 {
         text-align: center;
-        border: thick double #32a1ce;
         color: cadetblue;
-        border-radius: 10px;
-        width: 100%;
     }
 
     .menu {
@@ -15,7 +17,6 @@
         margin-top: 5px;
         padding-top: 9px;
         padding-bottom: 9px;
-        width: 40%;
     }
 
     .lienInterne {
@@ -24,3 +25,12 @@
         border-radius: 5px;
         color: white;
     }
+
+    .blockUn {
+        padding-right: 50%;
+    }
+
+    .blockDeux {
+        padding-left: 50%;
+    }
+
